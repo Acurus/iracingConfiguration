@@ -1,0 +1,27 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'FANATEC ClubSport Wheel Base V2.5'
+   InstanceGUID: '{57F7D150-199E-11EE-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 331
+     CalibCenter: 32781
+     CalibMax: 65329
+...
